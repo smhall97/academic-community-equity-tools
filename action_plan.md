@@ -1,8 +1,8 @@
 # Action Plan
 
-This tool is aimed at helping people engage with the content of this Ten Simple Rules pape in a way that does not involve massive bodies of text. The action plan details stepas that can be taken to put the Rules into action. Please adapt the content and/or design/format of this sheet to suit your needs.
+The action plan details stepas that can be taken to put the Rules into action. Please adapt the content and/or design/format of this sheet to suit your needs.
 
-Each Rule is accompanied by a question, an action, a rationale and the chance for reflection:
+Each action by a question, an action, a rationale and the chance for reflection:
 
 - The **question** is set up to help organisers identify a problem, or point for action within the organisation
 - The **action** is a set of concrete steps to tackle these points to get started on an inclusive event planning journey. 
@@ -10,8 +10,7 @@ Each Rule is accompanied by a question, an action, a rationale and the chance fo
 - The empty space next to **“Reflections”**  is designed to be used by you in this process to help you reflect and make choices about what matters in planning your event. 
 
 |                |                                                                                                                                                                                                                                                  |
-| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Rule 1**     |                                                                                                                                                                                                                                                  |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------                                                                                                                                                                                                                                      |
 | **Question**   | Who is consistently absent from organisation teams and/or attendees at events you have been to? What barriers can you remove or reduce? How will you do this?                                                                                    |
 | **Action**     | Ask organisers of previous events to share their learning; reach out to your organisation(s) and e.g. relevant local community groups to start inclusiveness conversations. Make sure that expectations, rewards and limits are clearly set out. |
 | **Rationale**  | Having stakeholders, especially those who have not previously been involved, or have adverse experiences                                                                                                                                         |
