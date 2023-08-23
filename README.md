@@ -3,7 +3,7 @@ Academic research and related events have long been seen as inaccessible and not
 
 We present tools that can be used to critically assess and successfully implement actionable change within the organising of academic events. 
 
-1. [The Academic Community Equity Index]
+1. [The Academic Community Equity Index](https://github.com/smhall97/academic-community-equity-tools/blob/main/Academic%20Community%20Equity%20Index.xlsx)
 
 
 
