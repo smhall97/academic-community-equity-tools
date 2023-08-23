@@ -4,12 +4,15 @@ The action plan details stepas that can be taken to put the Rules into action. P
 
 Each action by a question, an action, a rationale and the chance for reflection:
 
-- The **question** is set up to help organisers identify a problem, or point for action within the organisation
-- The **action** is a set of concrete steps to tackle these points to get started on an inclusive event planning journey. 
-- Providing a brief **rationale** for the action can help with decision-making and may be useful in justifying e.g. costs to funders. We have provided the rationale for the actions listed, but we encourage adapting these as needed.
-- The empty space next to **“Reflections”**  is designed to be used by you in this process to help you reflect and make choices about what matters in planning your event. 
+- The *question\* is set up to help organisers identify a problem, or point for action within the organisation
 
-                                                                                                                                                                                                                                                                       |                |                                                                                                                                                                                                                                                  |
+- The *action\* is a set of concrete steps to tackle these points to get started on an inclusive event planning journey. 
+
+- Providing a brief *rationale* for the action can help with decision-making and may be useful in justifying e.g. costs to funders. We have provided the rationale for the actions listed, but we encourage adapting these as needed.
+
+- The empty space next to *Reflections*  is designed to be used by you in this process to help you reflect and make choices about what matters in planning your event. 
+
+|                |                                                                                                                                                                                                                                                  |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Question**   | Who is consistently absent from organisation teams and/or attendees at events you have been to? What barriers can you remove or reduce? How will you do this?                                                                                    |
 | **Action**     | Ask organisers of previous events to share their learning; reach out to your organisation(s) and e.g. relevant local community groups to start inclusiveness conversations. Make sure that expectations, rewards and limits are clearly set out. |
@@ -78,4 +81,3 @@ Each action by a question, an action, a rationale and the chance for reflection:
 | **Action**     | Ensure attendees are aware of ways to communicate with organisers before and during the event (assuring confidentiality where needed). Consistently meet criticism and suggestions with acknowledgement and, where appropriate, actionable steps. Draft a response plan. |
 | **Rationale**  | Building a reputation with consistent, transparent and reflective work begins with providing the ability to criticise and suggest changes to the event and responsibly enacting the next steps.                                                                          |
 | **Reflection** |                                                                                                                                                                                                                                                                          |
-|
