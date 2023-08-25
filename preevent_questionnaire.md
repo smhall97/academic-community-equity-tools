@@ -9,9 +9,9 @@ _\[\*\* Comments are included in grey and between square brackets]_
 - Name:
 - Title / honorific (optional):
 - Affiliation:
-- Email/ (or other method of communication if such is preferred):
-- Nationality
-- Country of Current residence
+- Email (or other method of communication if such is preferred):
+- Nationality:
+- Country of Current residence:
 
 **Attendance**
 
@@ -23,12 +23,12 @@ _\[\*\* Comments are included in grey and between square brackets]_
 
 <!---->
 
-- [ ] Financial reasons (_for example,_ _I do not have the budget to book the flights and accommodation)_
+- [ ] Financial reasons (_for example, I do not have the budget to book the flights and accommodation)_
 - [ ] Family or dependant responsibility (_for example, I am a primary caregiver for young children)_ 
 - [ ] Visa (_for example, I am unable to secure a visa due to the associated costs being too high, or perhaps there is a lack of consular representation)_
-- [ ] Unsuitable location _(for example_ _I do not feel safe at the location due to my identity)_
+- [ ] Unsuitable location _(for example, I do not feel safe at the location due to my identity)_
 - [ ] Health concerns _(for example, I do not feel comfortable attending the event at a mask-less venue in high disease transmission zone)_
-- [ ] The content of the conference _(for example_ _the invited keynote speaker has an unacceptable and vocal position on an issue for my community)_
+- [ ] The content of the conference _(for example, the invited keynote speaker has an unacceptable and vocal position on an issue for my community)_
 - [ ] Other (please specify)
 
 
@@ -105,13 +105,13 @@ _\[\*\* Comments are included in grey and between square brackets]_
 _\[These questions are designed to help attendees, especially those that will be travelling for the first time, understand what is required of them to ensure a smooth visa application process]_
 
 - [ ] Do you have a passport as per your country’s government standard (please use your citizenship country rather than residence one, if these are not the same)?
-- [ ] Will the passport expire after (six months post event)?
+- [ ] Will the passport expire (six months post event)?
 - [ ] Does the passport have at least two blank pages?
 - [ ] Does the passport have correct details, dates and is free from serious damage (passports may be considered invalid if drawn in, torn, have typos or inconsistencies with other documents)?
 
 <!---->
 
-- Upload a copy of the bio data page of your passport _\[Ensure strict data privacy systems are in place and provide the ability for participants to opt out. Do not collect this information unless you are able to ensure this privacy]_
+- Upload a copy of the bio data page of your passport _\[Ensure strict data privacy systems are in place and provide the ability for participants to opt out. Do not collect this information unless you are able to ensure this privacy.]_
 
 **The Schedule**
 
