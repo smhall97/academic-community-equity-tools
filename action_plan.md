@@ -1,6 +1,6 @@
 # Action Plan
 
-The action plan details stepas that can be taken to put the Rules into action. Please adapt the content and/or design/format of this sheet to suit your needs.
+The action plan details steps that can be taken to put the Rules into action. Please adapt the content and/or design/format of this sheet to suit your needs.
 
 Each action by a question, an action, a rationale and the chance for reflection:
 
@@ -8,21 +8,21 @@ Each action by a question, an action, a rationale and the chance for reflection:
 
 - The *action\* is a set of concrete steps to tackle these points to get started on an inclusive event planning journey. 
 
-- Providing a brief *rationale* for the action can help with decision-making and may be useful in justifying e.g. costs to funders. We have provided the rationale for the actions listed, but we encourage adapting these as needed.
+- Providing a brief *rationale* for the action can help with decision-making and may be useful in, for example, justifying costs to funders. We have provided the rationale for the actions listed, but we encourage adapting these as needed.
 
-- The empty space next to *Reflections*  is designed to be used by you in this process to help you reflect and make choices about what matters in planning your event. 
+- The empty space next to *Reflections* is designed to be used by you in this process to help you reflect and make choices about what matters in planning your event. 
 
 |                |                                                                                                                                                                                                                                                  |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Question**   | Who is consistently absent from organisation teams and/or attendees at events you have been to? What barriers can you remove or reduce? How will you do this?                                                                                    |
-| **Action**     | Ask organisers of previous events to share their learning; reach out to your organisation(s) and e.g. relevant local community groups to start inclusiveness conversations. Make sure that expectations, rewards and limits are clearly set out. |
+| **Action**     | Ask organisers of previous events to share their learning; reach out to your organisation(s) and relevant local community groups to start inclusiveness conversations. Make sure that expectations, rewards and limits are clearly set out. |
 | **Rationale**  | Having stakeholders, especially those who have not previously been involved, or have adverse experiences                                                                                                                                         |
 | **Reflection** |                                                                                                                                                                                                                                                  |
 
 |                |                                                                                                                                                                                      |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Question**   | Think back to the conference and event locations you have attended and/or help to run an event at. What informed your/organiser choices? What worked well and what might you change? |
-| **Action**     | Research the accessibility and any other restrictions for a previous location- for example, a conference. Identify one thing (or more) to prioritise in your location choices..      |
+| **Action**     | Research the accessibility and any other restrictions for a previous location- for example, a conference. Identify one thing (or more) to prioritise in your location choices.       |
 | **Rationale**  | Identifying gaps and good practice from previous events can help you begin to shape your inclusive planning.                                                                         |
 | **Reflection** |                                                                                                                                                                                      |
 
@@ -35,15 +35,15 @@ Each action by a question, an action, a rationale and the chance for reflection:
 
 |                |                                                                                                                                                                                                                                                                         |
 | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Question**   | What do you know about the services and suppliers (catering, IT teams et cetera) at your organisation? What is relevant to your inclusion-centred planning?                                                                                                             |
-| **Action**     | Think about current suppliers or in-house procedures before your main planning stage – can you source more ethical and sustainable suppliers or make requests from in-house parties ( based on e.g. reusable resources, waste management, staff/employment conditions). |
+| **Question**   | What do you know about the services and suppliers (such as catering, IT teams) at your organisation? What is relevant to your inclusion-centred planning?                                                                                                             |
+| **Action**     | Think about current suppliers or in-house procedures before your main planning stage – can you source more ethical and sustainable suppliers or make requests from in-house parties (based on for example reusable resources, waste management, staff/employment conditions). |
 | **Rationale**  | Identifying relevant issues early and allowing time to ask questions, make changes or request adaptations in pursuit of ethical and sustainable working.                                                                                                                |
 | **Reflection** |                                                                                                                                                                                                                                                                         |
 
 |                |                                                                                                                                                                                                                                                             |
 | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Question**   | Reflect on your experience of online events: Have there been disruptions (e.g. unstable internet, family commitments, sound or technical issues) and how were they managed?                                                                                 |
-| **Action**     | Consider who is joining and/or contributing online and understand what it would take to facilitate their in-person attendance (e.g. health-related requirements such as masks, travel support and/or childcare). Assess online platforms for accessibility. |
+| **Question**   | Reflect on your experience of online events: Have there been disruptions (unstable internet, family commitments, sound or technical issues) and how were they managed?                                                                                 |
+| **Action**     | Consider who is joining and/or contributing online and understand what it would take to facilitate their in-person attendance (health-related requirements such as masks, travel support and/or childcare). Assess online platforms for accessibility. |
 | **Rationale**  | Online may not be the best solution. If it is, we must still think carefully about making it inclusive.                                                                                                                                                     |
 | **Reflection** |                                                                                                                                                                                                                                                             |
 
@@ -57,21 +57,21 @@ Each action by a question, an action, a rationale and the chance for reflection:
 |                |                                                                                                                                                                                |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Question**   | Reflect on the schedules of in-person events: Were there sufficient breaks? Were sessions a good length? How accessible was the schedule itself?                               |
-| **Action**     | For example, plan additional breaks, allow time to transfer between spaces, mix up formats e.g. talks and workshops. Consider making some resources available after the event. |
+| **Action**     | For example, plan additional breaks, allow time to transfer between spaces, mix up different formats (such as talks and workshops). Consider making some resources available after the event. |
 | **Rationale**  | To ensure attendees with different needs have the opportunity to recharge and engage fully and to access materials post-event as needed.                                       |
 | **Reflection** |                                                                                                                                                                                |
 
 |                |                                                                                                                                                                                                                 |
 | -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Question**   | Does your institution or event have a Code of Conduct? If yes, is it obvious and accessible for attendees to be able to read and act?                                                                           |
-| **Action**     | Put together a Code of Conduct if there isn’t one, or review the existing one with your event/audience in mind. Consider providing training resources e.g. allyship, for the organising and event managing team |
+| **Action**     | Put together a Code of Conduct if there isn’t one, or review the existing one with your event/audience in mind. Consider providing training resources (on for example allyship) to the organising and event managing team |
 | **Rationale**  | Ensuring everyone knows what is expected, how to report or respond to misconduct at the event and how to best support those affected.                                                                           |
 | **Reflection** |                                                                                                                                                                                                                 |
 
 |                |                                                                                                                                                                                           |
 | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Question**   | Reflect on the funding provided for the event. How was it secured and what inclusion plans can it support? Is there a way to ensure you can fund further inclusion efforts in the future? |
-| **Action**     | During event feedback, try to collect stories from both who attended and, where possible, those who could not make it for e.g. financial or other need-based reasons.                     |
+| **Action**     | During event feedback, try to collect stories from both who attended and, where possible, those who could not make it (due to financial or other need-based reasons).                     |
 | **Rationale**  | These can inform funding applications and form a compelling narrative to support development of more personal connections with potential donors.                                          |
 | **Reflection** |                                                                                                                                                                                           |
 
