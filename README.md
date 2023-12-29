@@ -16,7 +16,7 @@ In the spirit of supporting actionable change that can be a piece of **CAKE** ðŸ
 These tools are based on the collective discussions and experiences of the authors of the paper, (*link to the paper*) TODO
 
 1. [The Academic Community Equity Index (ACE Index)](https://github.com/smhall97/academic-community-equity-tools/blob/main/Academic%20Community%20Equity%20Index.xlsx)
-: The ACE Index is proposed as a starting point for the auditing of academic events. This tool can be used by organisers as a way of self-audit and making decision-making more transparent. This tool can also be used by participants as well as a way to score academic events to determine if they feel supported enough to attend. It is a simple binary scoring system, and the higher the score, the better the academic scores in terms of its commitment to inclusivity. 
+: The ACE Index is proposed as a starting point for the auditing of academic events. The Index is uploaded as .xlxs file to be downloaded. This tool can be used by organisers as a way of self-audit and making decision-making more transparent. This tool can also be used by participants as well as a way to score academic events to determine if they feel supported enough to attend. It is a simple binary scoring system, and the higher the score, the better the academic scores in terms of its commitment to inclusivity. 
 
 2. [Action Plan](https://github.com/smhall97/academic-community-equity-tools/blob/main/action_plan.md): The Action Plan details steps that can be taken to put the Rules into action. Please adapt the content and/or design/format of this sheet to suit your needs.
 
