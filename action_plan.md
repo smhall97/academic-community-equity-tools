@@ -4,13 +4,13 @@ The action plan details steps that can be taken to put the Rules into action. Pl
 
 Each action by a question, an action, a rationale and the chance for reflection:
 
-- The *question\* is set up to help organisers identify a problem, or point for action within the organisation
+- The **question** is set up to help organisers identify a problem, or point for action within the organisation
 
-- The *action\* is a set of concrete steps to tackle these points to get started on an inclusive event planning journey. 
+- The **action** is a set of concrete steps to tackle these points to get started on an inclusive event planning journey. 
 
-- Providing a brief *rationale* for the action can help with decision-making and may be useful in, for example, justifying costs to funders. We have provided the rationale for the actions listed, but we encourage adapting these as needed.
+- Providing a brief **rationale** for the action can help with decision-making and may be useful in, for example, justifying costs to funders. We have provided the rationale for the actions listed, but we encourage adapting these as needed.
 
-- The empty space next to *Reflections* is designed to be used by you in this process to help you reflect and make choices about what matters in planning your event. 
+- The designated **reflection** section is designed to be used by you in this process to help you reflect and make choices about what matters in planning your event. 
 
 |                |                                                                                                                                                                                                                                                  |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
