@@ -9,7 +9,10 @@ We realise issues of inclusion are nuanced; that not every event can cater to ev
 
 **<ins>K</ins>inship** emphasises the cultivation of a sense of connection, community, and shared purpose among conference participants. This involves fostering a feeling of belonging and mutual support, encouraging attendees to forge meaningful relationships and collaborations. Actively welcome newcomers, solicit feedback, and provide avenues for involvement. Kinship highlights the interpersonal bonds and common goals that are nurtured through conference interactions.
 
-**<ins>E</ins>mpowerment** encourages attendees to take ownership of their learning and experiences. Provide resources, tools, and support that enable attendees to make the most of their time at the conference and apply what they have learned. This could involve follow-up activities, collaborative projects, or ongoing dialogues to ensure that the value of the conference extends beyond its duration. These four principles can be summarised, respectively, as “is everyone seen?”, “is everyone themselves?”, “does everyone feel like they belong?”, and “can everyone (and the community) grow?”
+**<ins>E</ins>mpowerment** encourages attendees to take ownership of their learning and experiences. Provide resources, tools, and support that enable attendees to make the most of their time at the conference and apply what they have learned. This could involve follow-up activities, collaborative projects, or ongoing dialogues to ensure that the value of the conference extends beyond its duration. 
+
+The **CAKE** principles can be summarised, respectively, as “is everyone seen?”, “is everyone themselves?”, “does everyone feel like they belong?”, and “can everyone (and the community) grow?”
+
 In the spirit of supporting actionable change that can be a piece of **CAKE** 🎂, we present tools that can be used to critically assess and successfully implement actionable change within the organising of academic events.
 
 ## The Tools
