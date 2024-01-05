@@ -14,12 +14,17 @@ In the spirit of open and responsible research, and the ethos of FAIR [1] and CA
 
 **<ins>E</ins>mpowerment** encourages attendees to take ownership of their learning and experiences. Provide resources, tools, and support that enable attendees to make the most of their time at the conference and apply what they have learned. This could involve follow-up activities, collaborative projects, or ongoing dialogues to ensure that the value of the conference extends beyond its duration. 
 
-The **CAKE** principles can be summarised, respectively, as “Is everyone seen?”, “is everyone themselves?”, “Does everyone feel like they belong?”, and “Can everyone (and the community) grow?”
+The **CAKE** principles can be assessed through simple assessment by asking questions 
+- Is everyone seen?
+- Is everyone themselves?
+- Does everyone feel like they belong?
+- Can everyone (and the community) grow?
 
-In the spirit of supporting actionable change that can be a piece of **CAKE** 🎂, we present tools that can be used to critically assess and successfully implement actionable change within the organising of academic events.
+To implement the **CAKE** principle, we provide tools for critically assessing and successfully implementing actionable change within the organising of academic events.
 
-## The Tools
-These tools are based on the collective discussions and experiences of the authors of the paper, (*link to the paper*) TODO
+## Tools for Implementing CAKE Principle
+
+The **CAKE** principle comes with the following action-oriented tools that are based on the collective discussions and experiences of a diverse group of researchers who have collaborated to author a paper on inclusive academic events (*link to the paper is coming soon*!).
 
 1. [The Academic Community Equity Index (ACE Index)](https://github.com/smhall97/academic-community-equity-tools/blob/main/Academic%20Community%20Equity%20Index.xlsx)
 : The ACE Index is proposed as a starting point for the auditing of academic events. The Index is uploaded as .xlsx file to be downloaded. This tool can be used by organisers as a way of self-audit and making decision-making more transparent. This tool can also be used by participants as well as a way to score academic events to determine if they feel supported enough to attend. It is a simple binary scoring system, and the higher the score, the better the academic scores in terms of its commitment to inclusivity. 
