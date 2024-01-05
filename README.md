@@ -22,16 +22,16 @@ The **CAKE** principles can be assessed through simple assessment by asking ques
 
 To implement the **CAKE** principle, we provide tools for critically assessing and successfully implementing actionable change within the organising of academic events.
 
-## Tools for Implementing CAKE Principle
+## Tools for Implementing CAKE Principles
 
-The **CAKE** principle comes with the following action-oriented tools that are based on the collective discussions and experiences of a diverse group of researchers who have collaborated to author a paper on inclusive academic events (*link to the paper is coming soon*!).
+The **CAKE** principles come with the following action-oriented tools that are based on the collective discussions and experiences of a diverse group of researchers who have collaborated to author a paper on inclusive academic events (*link to the paper is coming soon*!).
 
 1. [The Academic Community Equity Index (ACE Index)](https://github.com/smhall97/academic-community-equity-tools/blob/main/Academic%20Community%20Equity%20Index.xlsx)
 : The ACE Index is proposed as a starting point for the auditing of academic events. The Index is uploaded as .xlsx file to be downloaded. This tool can be used by organisers as a way of self-audit and making decision-making more transparent. This tool can also be used by participants as well as a way to score academic events to determine if they feel supported enough to attend. It is a simple binary scoring system, and the higher the score, the better the academic scores in terms of its commitment to inclusivity. 
 
 2. [Action Plan](https://github.com/smhall97/academic-community-equity-tools/blob/main/action_plan.md): The Action Plan details steps that can be taken to put the Rules into action. Please adapt the content and/or design/format of this sheet to suit your needs.
 
-3. [Pre-event Questionnaire](https://github.com/smhall97/academic-community-equity-tools/blob/main/preevent_questionnaire.md): This is an example of a pre-event questionnaire that can be shared with participants. These questions can be adapted for the purpose of different events. The pre-event questionnaire should be shared with attendees who are likely to attend, and those who indicate they cannot attend anymore.
+3. [Pre-event Questionnaire](https://github.com/smhall97/academic-community-equity-tools/blob/main/preevent_questionnaire.md): This is an example of a pre-event questionnaire that can be shared with participants. These questions can be adapted for different events. The pre-event questionnaire should be shared with attendees who are likely to attend, and those who indicate they cannot attend anymore.
 
 *These tools are the work of ongoing development and we welcome suggestions in the way of GitHub Issues and Pull Requests.*
 
