@@ -1,4 +1,4 @@
-# CAKE Principles: A Conceptual Framework for Community Equity in Academic Events
+# CAKE Principles: A Conceptual Framework with Actionable Tools for Fostering Community Equity in Academic Events 
 
 Academic research and related events have long been seen as inaccessible and not designed to accommodate a diverse audience with varying needs. These events are crucial for career advancement, research sharing, and networking. However, their inaccessibility negatively impacts the careers of participants who cannot attend. Thus, it is essential that the event organisers address this inequality from the early stages of planning. Successful efforts are made to improve fairness and diversity, including ensuring disabled people can attend, using virtual event options and communicating in inclusive ways. More work can be done to assist historically underrepresented communities to access academic events.
 
